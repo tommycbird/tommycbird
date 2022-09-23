@@ -1,5 +1,6 @@
 - I’m @tommycbird
-- blah
+- Raised in San Francisco
+- Studying CS at Rensselaer Polytechnic in Troy, NY
 
 <!---
 tommycbird/tommycbird is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
